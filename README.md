@@ -17,5 +17,9 @@ Hint:you need to add a description to each cookie in the data file
 - this component should show when the user click on any cookie from the list 
 - when clicking ONLY the cookie that have been clicked should show (i dont need to see the list )
 
+### 3. Cool devalopers Part : Theme 
+- add a button to your website, that will chnge the theme of your app
+Hint: have two CSS classes AND switch between them 
+
 ### JOKER PART:
 - add a button to each cookie component to delete the cookie 🤯
