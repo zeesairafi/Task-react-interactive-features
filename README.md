@@ -1,7 +1,7 @@
 # Interactive Features 💥
 
 ## First things first :
-fork and clone and open in VScode 
+fork [this repo ](https://github.com/JoinCODED/Task-react-interactive-features) and clone and open in VScode
 
 ## Instructions
 
